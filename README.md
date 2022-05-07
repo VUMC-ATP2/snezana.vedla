@@ -1,11 +1,13 @@
-### Snežana Vedļa
+ 
 
-Esat sveicināti manā pirmā patstāvīgā darbā. Padziļinātas mācības IT jomā ir mans kārtējais redzes lauka 
+### Esat sveicināti manā pirmā patstāvīgā darbā. 
+
+Padziļinātas mācības IT jomā ir mans kārtējais redzes lauka 
 un dzīves pieredzes paplašinājums, jo līdz šim papildu savai politologa izglītībai esmu apguvusi ģitārspēli 
 un friziermākslu. Nāku no nelielas, bet ļoti mūsdienīgas pilsētas – **Jēkabpils** www.jekabpils.lv un 
 mana dzīve līdz 18 gadiem bija cieši saistīta ar latgali, arī latgaliski varu nedaudz parunāt, par ko cilvēki 
-parasti ir stāvā sajūsmā :laughing:  Šobrīd audzinu gandrīz 5 gadus vecu meitiņu un baudu pieaugušā
- cilvēka dzīvi ar tās mācību, dzīvesvietas izvēles un nodarbošanās jomu dažādības klāstu.
+parasti ir stāvā sajūsmā :laughing:  Šobrīd audzinu gandrīz 5 gadus vecu meitiņu un baudu pieauguša
+cilvēka dzīvi ar tās mācību, dzīvesvietas izvēles un nodarbošanās jomu dažādības klāstu.
 
 Parasti šaubas ir mans lielākais traucēklis uzsākot kaut ko jaunu, taču veiksmīgi strādāt daudzās jomās un 
 mācīties tik dažādās nozarēs man ir palīdzējusi mana neatlaidība un (jācer) intelekts kā arī ģimenes 

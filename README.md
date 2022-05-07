@@ -1,4 +1,4 @@
-###Snežana Vedļa
+### Snežana Vedļa
 
 Esat sveicināti manā pirmā patstāvīgā darbā. Padziļinātas mācības IT jomā ir mans kārtējais redzes lauka 
 un dzīves pieredzes paplašinājums, jo līdz šim papildu savai politologa izglītībai esmu apguvusi ģitārspēli 
@@ -19,4 +19,5 @@ esot vienatnē ar labu mūziku vai vērojot dabas diženumu.
 Šobrīd jūtu, ka mācības man būs liels izaicinājums, jo no izcilnieces laikiem skolā ir pagājuši no jau 15 
 gadi un jaunās programmas ir pavisam kas jauns un neredzēts līdz šim. Tāpēc nezaudējot cerību turpinu 
 urbties tēmās. Turu īkšķus par savu veiksmi un izvirzu mērķus pabeigt mācības ar skaidru izpratni. 
+
 ![This is an image](finger.jpg)

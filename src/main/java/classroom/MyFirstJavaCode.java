@@ -5,7 +5,8 @@ public class MyFirstJavaCode {
         // byte data type
         byte floorCount = 7;
         System.out.println("My house has " + floorCount + " floors");
-        System.out.printf("My house has %d floor",floorCount);
+        System.out.printf("My house has %d floors", floorCount);
+
 
         //%d - numbers
         //%s - text

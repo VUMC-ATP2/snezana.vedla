@@ -1,7 +1,7 @@
 package classroom;
 
 
-import javax.sql.rowset.serial.SQLOutputImpl;
+
 import java.util.Scanner;
 
 public class Practice {

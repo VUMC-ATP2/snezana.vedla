@@ -66,6 +66,8 @@ public class HomeWorkTwo {
             System.out.println("Cipars nav 0 un nav 10");
         }
 
+
+
         //vai x * x reizinājums ir lielāks par 10 (rezultātus true)
 
         int SquareSide = 2;
@@ -76,6 +78,9 @@ public class HomeWorkTwo {
         }
 
         System.out.println("");
+
+
+
 // 2.uzdevums
         int MonthNumber = 5;
         switch (MonthNumber) {

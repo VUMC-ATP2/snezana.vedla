@@ -3,10 +3,10 @@ package classroom;
 public class Car {
 
 
-        int ProdYear = 2017;
-        String Color = "grey";
-        byte DoorsNumber = 5;
-        int MaxSpeed = 360;
+        int prodYear = 2017;
+        String color = "black";
+        byte doorsNumber = 5;
+        int maxSpeed = 260;
     }
 
 

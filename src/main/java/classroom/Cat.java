@@ -3,20 +3,11 @@ package classroom;
 public class Cat {
 
 
-    int Age = 12;
-    String Specie;
-    String Color = "brown";
+    int age = 12;
+    String specie = "Siamese";
+    String color = "brown";
     boolean IsFemale = true;
 
-
-    public void printInformation() {
-
-        System.out.println("Vecums: " + Age);
-        System.out.println("Šķirne: " + Specie);
-        System.out.println("Krāsa: " + Color);
-        if (IsFemale) ;
-        System.out.println("Siev dzim");
-    }
 }
 
 

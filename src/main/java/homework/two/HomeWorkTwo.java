@@ -1,4 +1,4 @@
-package homeworkTwo;
+package homework.two;
 
 import java.sql.SQLOutput;
 import java.util.Scanner;
@@ -67,7 +67,6 @@ public class HomeWorkTwo {
         }
 
 
-
         //vai x * x reizinājums ir lielāks par 10 (rezultātus true)
 
         int SquareSide = 2;
@@ -78,7 +77,6 @@ public class HomeWorkTwo {
         }
 
         System.out.println("");
-
 
 
 // 2.uzdevums

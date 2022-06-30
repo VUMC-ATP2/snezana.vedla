@@ -4,40 +4,18 @@ import com.sun.source.tree.ForLoopTree;
 
 public class House {
 
-    int HouseNumber = 14;
-    String PropertyType = "privātmāja";
-    byte Floors = 1;
-    int Bedrooms = 3;
-
+    int houseNumber = 14;
+    String propertyType = "private";
+    byte floors = 1;
+    int bedrooms = 4;
+    double marketValue = 250;
 
     public void printInformation() {
-
-        System.out.println("Mājas numurs " + HouseNumber);
-        System.out.println("Īpašuma veids: " + PropertyType);
-        System.out.println("Stāvu skaits: " + Floors);
-        System.out.println("Guļamistabu skaits: " + Bedrooms);
+        System.out.println("Mājas numurs " + houseNumber);
+        System.out.println("Mājas veids ir " + propertyType);
+        System.out.println("Stāvu skaits ir " + floors);
+        System.out.println("Guļamistabu skaits ir " + bedrooms);
     }
-
-    public boolean isHouseFar() {
-boolean isFar;
-        if (HouseNumber > 10)
-        {
-            System.out.println("Māja ir ielas galā");
-
-            isFar = true;
-        }
-        else{
-            System.out.println("Māja ir tuvu ceļam");
-            isFar = false;
-
-        }
-        return isFar;
-
-    }
-
-
-
-
 }
 
 
